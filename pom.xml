@@ -4,14 +4,14 @@
 
     <groupId>com.khayteck.develop</groupId>
     <artifactId>alpha</artifactId>
-    <version>3.0</version>
+    <version>3.1-SNAPSHOT</version>
 
 
     <scm>
         <connection>scm:git:https://github.com/UnicornFlex/alpha</connection>
         <developerConnection>scm:git:https://github.com/UnicornFlex/alpha.git</developerConnection>
         <url>https://github.com/UnicornFlex/alpha.git</url>
-        <tag>alpha-3.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
