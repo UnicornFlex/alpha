@@ -4,7 +4,7 @@
 
     <groupId>com.khayteck.develop</groupId>
     <artifactId>alpha</artifactId>
-    <version>3.11-SNAPSHOT</version>
+    <version>3.11</version>
     <build>
         <plugins>
             <plugin>
@@ -34,7 +34,7 @@
         <connection>scm:git:https://github.com/UnicornFlex/alpha</connection>
         <developerConnection>scm:git:https://github.com/UnicornFlex/alpha.git</developerConnection>
         <url>https://github.com/UnicornFlex/alpha.git</url>
-        <tag>HEAD</tag>
+        <tag>alpha-3.11</tag>
     </scm>
 
     <distributionManagement>
