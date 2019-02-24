@@ -4,7 +4,7 @@
 
     <groupId>com.khayteck.develop</groupId>
     <artifactId>alpha</artifactId>
-    <version>3.15-SNAPSHOT</version>
+    <version>3.16-SNAPSHOT</version>
     <build>
         <plugins>
             <plugin>
