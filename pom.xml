@@ -5,7 +5,7 @@
 
     <groupId>com.khayteck.develop</groupId>
     <artifactId>alpha</artifactId>
-    <version>2.9-SNAPSHOT</version>
+    <version>2.9</version>
 
 
     <scm>
